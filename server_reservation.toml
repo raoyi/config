@@ -1,0 +1,23 @@
+[[servers]]
+name = "ATSC_dtvss12"
+book_time = "2026-4-24 08:23"
+user = "Yi Rao (饶懿)"
+enabled = false
+
+[[servers]]
+name = "DTMB_dtvss13"
+book_time = "2026-4-24 08:23"
+user = "Yi Rao (饶懿)"
+enabled = true
+
+[[servers]]
+name = "ISDB-T_dtvss16_(SA专用)_line1"
+book_time = "2026-4-24 08:23"
+user = "Yi Rao (饶懿)"
+enabled = true
+
+[[servers]]
+name = "ISDB-T_dtvss16_(SA专用)_line2"
+book_time = "2026-4-24 08:23"
+user = "Yi Rao (饶懿)"
+enabled = true
