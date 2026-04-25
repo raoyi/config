@@ -1,8 +1,9 @@
+# Do not modify frequently. Each public IP can be scheduled up to 60 times per hour.
 [[servers]]
 name = "ATSC_dtvss12"
 book_time = "2026-4-24 08:23"
 user = "Yi Rao (饶懿)"
-enabled = false
+enabled = false  # true for selected, false for unselected.
 
 [[servers]]
 name = "DTMB_dtvss13"
