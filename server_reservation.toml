@@ -7,7 +7,7 @@ enabled = false  # true for selected, false for unselected.
 
 [[servers]]
 name = "DTMB_dtvss13"
-book_time = "2026-4-24 08:23"
+book_time = "2026-4-29 08:23"
 user = "Yi Rao (饶懿)"
 enabled = true
 
