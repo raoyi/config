@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 3000  # 设置最大上传限制为 3000MB (即 3GB)
+
+[client]
+toolbarMode = "minimal"	# "viewer" or "none"
