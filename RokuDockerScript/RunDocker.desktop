@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=2.0
+Name=StartRokuDocker
+Comment=Run Docker Environment
+Exec=bash -c "/home/$USER/Desktop/roku/run_docker.sh"
+Icon=utilities-terminal
+Terminal=true
+Type=Application
