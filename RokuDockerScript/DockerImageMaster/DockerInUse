@@ -1,0 +1,6 @@
+# 注释行以 # 开头
+# 格式：image_name:tag | file_name（扩展名可以是.tar或.tar.gz）
+
+eswat-docker-dev-local.artifactory.push.tools.roku.com/roku-automation-framework-external:3.48.0-mtk | raf-v3480-mtk.tar.gz
+# framework-external-gui:3.46 | framework-external-gui_3.46.tar
+
